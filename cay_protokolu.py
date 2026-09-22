@@ -63,7 +63,7 @@ def main():
     print("PROTOKOL TAMAMLANDI.")
     print("Çayın hazır. İrade de öyle olmalı: kısa kesilmesin.")
     print()
-    print(— damga —")
+    print("--- damga ---")
     print("22.09.2026  |  K.G.  |  Tentivory")
     return 0
 
